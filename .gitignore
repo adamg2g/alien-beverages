@@ -1,5 +1,5 @@
 .DS_Store
 
-# Interviewer-only material — must never be committed or pushed.
+# Interviewer-only material
 ANSWER_KEY.md
 recipes-dataset.zip
